@@ -1,0 +1,14 @@
+# Gamelet
+
+A starter program for writing and learning JavaScript games.
+
+## Usage
+
+1. Include gamelet.js in an HTML document containing a element with an id of 'ball'.
+
+```html
+<div id="ball"></div>
+<script src="gamelet.js"></script>
+```
+
+2. The script will detect when the left, right, up, and down arrow keys are pressed and move the ball element accordingly.
